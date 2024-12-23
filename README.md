@@ -11,7 +11,7 @@ Adventurize is a web-app that allows users to search for different locations to 
 2. **Create the Workspace**:
 
    ```bash
-   daytona create ...
+   daytona create https://github.com/nothing-mann/daytona-project.git
    ```
 
 3. **Start the Application**:
